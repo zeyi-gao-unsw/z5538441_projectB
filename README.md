@@ -1,5 +1,8 @@
 # HyperInvest — FinTech Project Part B (z5538441)
 
+**Live app:** https://zeyi-gao-unsw-z5538441-projectb-streamlit-app-hssehq.streamlit.app/
+**Public repo:** https://github.com/zeyi-gao-unsw/z5538441_projectB
+
 Part B: funds, sentiment, and the app (DFF Stations 3–4), built on my own
 Part A data foundation. This folder is also the public GitHub repository for
 the deployed app; the app entrypoint is `streamlit_app.py` at the root.
