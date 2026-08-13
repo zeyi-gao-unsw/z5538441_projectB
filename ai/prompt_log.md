@@ -1547,9 +1547,8 @@ and the live links in the repo.
 
 **What was done (Kimi executed; I did the account-gated steps).**
 - The folder became its own git repository (71 tracked files; .gitignore
-  blocks raw data, secrets, OS junk; my Chinese writing-aid draft was
-  deleted after the rewrite and never tracked). check_handin: 22 pass,
-  zero FAIL before pushing.
+  blocks raw data, secrets, OS junk). check_handin: 22 pass, zero FAIL
+  before pushing.
 - I created the empty GitHub repository myself
   (zeyi-gao-unsw/z5538441_projectB); Kimi committed and pushed. An
   automated-browser login attempt failed at GitHub OAuth, so the deploy
