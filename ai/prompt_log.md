@@ -7,6 +7,36 @@ part of the graded AI Workflow submission.
 
 ---
 
+## Index — how to read this log (45 sessions, 2026-07-29 → 2026-08-12)
+
+The entries below are the complete record in chronological order. This
+index groups them by theme for quick navigation; nothing here replaces
+the full entries.
+
+| Phase | Sessions | What it covers |
+|---|---|---|
+| Fresh restart & rebuild (07-29) | 1–7 | Discarding the earlier attempt and rebuilding with one agent: Station 3 pipeline, the app, and chart/copy fixes from my own click-through reviews. |
+| Validation & sample report (08-01) | 8–12 | Custom lexicon validated against the course's finVADER benchmark; course-content sweep; HD-rubric scaffold, then the full-length sample report (which I later rewrote in my own words). |
+| Design iteration (08-01) | 13–15 | Design-inspiration integrity discussion; progressive disclosure; sidebar, event-label, and language-mode fixes. |
+| Feature expansion I (08-11) | 16–18 | News-exposure bridge (allocation × sentiment); the full 4×3 fund matrix; family grouping in allocation inputs. |
+| Practice layer build-out (08-11) | 19–27 | Matrix explainer; Blind walk with pace gears and the storm-guard rule; dollar-based allocation; daily digest; amount-as-contract; widget-state persistence. |
+| My Portfolio & bridges (08-11) | 28–32 | Mix cards with mini fact sheets, compare table, whole-portfolio aggregate view, the two-way bridge into the time machine, exposure follows the money. |
+| Review fixes & per-mix views (08-11/12) | 33–36 | Reset/dead-chart/weights fixes; per-mix performance and sentiment panels; whole portfolio in the time machine. |
+| Bug hunts, with a correction (08-12) | 37–38 | End-of-walk crash; the real tab-switch root cause — includes a dated correction to Session 37's diagnosis. |
+| Triage policy & stress test (08-12) | 39–40 | My fix-only-what-breaks policy for the rest of the project; the 32-test stress suite (one real bug found). |
+| UX, design & transparency (08-12) | 41–43 | UX simplification ("practice area"); design polish; "How every fund is built" mechanism transparency. |
+| Report rebuild & exhibits (08-12) | 44–45 | Report content brought in line with Sessions 19–43 + design system + the settlement-page reflection; exhibit redesign and product screenshots. |
+
+**Entries worth reading first** (they show the workflow, not just the
+output): Session 1 (the integrity decision to restart), Session 23 (an AI
+refusal, logged with reasons), Session 38 (a dated correction to an
+earlier entry), Session 39 (my own triage policy).
+
+Sessions 46+ will be appended as closing entries (deployment and final
+submission checks) at submission time.
+
+---
+
 ## Session 1 — Fresh restart with a single agent (2026-07-29)
 
 **What I decided, and why.** An earlier Part B attempt lived in a previous
