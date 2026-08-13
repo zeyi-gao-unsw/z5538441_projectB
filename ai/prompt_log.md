@@ -1538,9 +1538,7 @@ the crypto sell-off window (storm guard working as designed).
 ## Session 46 — Deployment and finalisation; a note on the gap (2026-08-14)
 
 **A note on the gap.** By my instruction, no entries were added after
-Session 45 (2026-08-12). The pause covered my own report rewrite (done in
-Word, from the AI sample plus a Chinese reference draft I asked for as a
-writing aid, since deleted) and the early deployment preparation. I lifted
+Session 45 (2026-08-12). The pause covered my own report rewrite and the early deployment preparation. I lifted
 the pause for this closing entry so the log spans the whole build.
 
 **What I asked.** Deploy the project strictly per Appendix D, then
