@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Raw hosted data is never committed - it loads from the hosted ZIP via src/data_access.py
+data/
+
+# Block raw data files anywhere EXCEPT committed outputs under results/.
+# The deployed app reads precomputed artifacts from results/data/, so results/ IS committed.
+*.parquet
+*.csv
+!results/**
+
+# Secrets / local
+.streamlit/secrets.toml
+.env
+
+# OS noise
+.DS_Store
+
+# Personal writing aid - never publish (Chinese sample draft)
+report/report_sample_zh.docx

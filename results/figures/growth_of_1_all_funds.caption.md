@@ -1,0 +1,1 @@
+Cumulative out-of-sample growth of $1 for every fund, one panel per asset family; method colours are shared across panels and line ends carry terminal values (panels scaled independently). Daily returns, monthly rebalancing, no transaction costs. Sample period: 01 Oct 2020 - 31 Dec 2023.

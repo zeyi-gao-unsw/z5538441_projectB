@@ -1,0 +1,1 @@
+Target weights of the Combined Max-Sharpe fund at each monthly rebalance; top 5 holdings shown individually with the axis fitted to them, the remainder spread across all other assets (not shown). Sample period: 01 Feb 2021 - 29 Dec 2023.

@@ -1,0 +1,13 @@
+# Build / reproduction-only dependencies (NOT needed by the deployed app).
+# Install alongside requirements.txt to run scripts/run_part_b.py end to end:
+#     pip install -r requirements.txt -r requirements-dev.txt
+# Keep these OUT of the deployed app so Streamlit cold starts stay fast - the app
+# loads precomputed artifacts from results/, never scores sentiment at runtime.
+nltk>=3.8
+# finvader is dev-only benchmark tooling (scripts/build_sentiment_benchmark.py):
+# it validates the project's custom-lexicon model against the course's finVADER.
+# Never imported by the deployed app, exactly like nltk above. Note: pip resolves
+# finvader to 1.0.0 + nltk 3.8.1 here (finvader 1.0.2 pins nltk==3.6.2, which
+# would conflict with nltk>=3.8); the lexicons are identical across 1.0.0-1.0.2.
+finvader
+pytest>=8.0

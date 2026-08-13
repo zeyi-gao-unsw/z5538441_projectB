@@ -1,0 +1,19 @@
+fund_a,fund_b,mean_abs_weight_diff
+Combined Equal-Weight,Combined Min-Variance,0.02339603119271183
+Combined Equal-Weight,Combined Max-Sharpe,0.02833666199600996
+Combined Equal-Weight,Combined Risk-Parity,0.005915797965555176
+Combined Min-Variance,Combined Max-Sharpe,0.026057282196245937
+Combined Min-Variance,Combined Risk-Parity,0.019009227527762903
+Combined Max-Sharpe,Combined Risk-Parity,0.027732846120380888
+Equity Equal-Weight,Equity Min-Variance,0.027743848787206184
+Equity Equal-Weight,Equity Max-Sharpe,0.0340812983937927
+Equity Equal-Weight,Equity Risk-Parity,0.005445838287544029
+Equity Min-Variance,Equity Max-Sharpe,0.031231134954515894
+Equity Min-Variance,Equity Risk-Parity,0.023585292612378038
+Equity Max-Sharpe,Equity Risk-Parity,0.033508868753052395
+Crypto Equal-Weight,Crypto Min-Variance,0.14182865281406717
+Crypto Equal-Weight,Crypto Max-Sharpe,0.147976225424293
+Crypto Equal-Weight,Crypto Risk-Parity,0.015208795604694802
+Crypto Min-Variance,Crypto Max-Sharpe,0.12957810359277197
+Crypto Min-Variance,Crypto Risk-Parity,0.12812273967367324
+Crypto Max-Sharpe,Crypto Risk-Parity,0.14435434346110557

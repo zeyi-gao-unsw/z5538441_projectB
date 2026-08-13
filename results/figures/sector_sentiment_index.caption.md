@@ -1,0 +1,1 @@
+Daily news-sentiment index per equity sector (one panel each, shared scale): VADER with an extended finance lexicon, averaged per ticker-day, 5-day EMA, equal-weighted within sector, lagged one trading day. Sample period: 02 Jan 2020 - 29 Dec 2023.
