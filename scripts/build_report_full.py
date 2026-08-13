@@ -749,7 +749,7 @@ caption_paragraph(
 
 # ---------------------------------------------------------------------------
 # 5
-SHOTS = ROOT / "report" / "screenshots"
+SHOTS = RES / "figures"      # product screenshots live with the other exhibits
 
 # ---------------------------------------------------------------------------
 doc.add_heading("5. The app and the investor journey", level=1)

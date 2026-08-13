@@ -20,5 +20,8 @@ data/
 # OS noise
 .DS_Store
 
+# Office lock/temp files
+~$*
+
 # Personal writing aid - never publish (Chinese sample draft)
 report/report_sample_zh.docx
